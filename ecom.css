@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nav_logo {
+    height: 40px;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.margins {
+    margin-bottom: 15px;
+}
+
+.our_products {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.products_1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    height: 250px;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+    margin: 10px;
+}
+
+.products_2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    height: 250px;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+    margin: 10px;
+}
+
+.products_button {
+    color: #ff9f00;
+    border-width: 0px;
+    height: 35px;
+    width: 120px;
+    border-radius: 15px;
+}
+
+#products {
+    margin-top: 10px
+}
+
+
+.services_images {
+    height: 80px;
+}
+
+.services_heading {
+    color: #183b56;
+    font-size: 40px;
+}
+
+.services_para {
+    color: #7b8794;
+}
+
+
+
+.services_container {
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+}
+
+
+.special-offer-image {
+    height: 250px;
+
+}
+
+.appliances-image {
+    height: 200px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+
+.offers_cont {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+
+}
+
+.offers_bold_text {
+    color: #ad2167;
+    font-weight: bold;
+    font-style: "Caveat";
+    font-size: 28px;
+}
+
+.offers_discount_image {
+    height: 90px;
+}
+
+.center_align {
+    text-align: center;
+}
+
+
+.blogs_image {
+    width: 325px;
+}
+
+.blogs_text_cont {
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.blogs_head {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.blogs_para {
+    color: #959ead;
+}
+
+.yellow_text {
+    color: #ff9f00;
+}
+
+.blogs_main_head {
+    color: #183b56;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.explore_images {
+    height: 90px;
+    border-radius: 10px;
+}
+
+.explore_image_cont {
+    margin: 20px;
+}
+
+.explore_tv_image {
+    height: 300px;
+    border-radius: 10px;
+}
+
+.contact_button {
+    background-color: transparent;
+    color: #ff9f00;
+    border-color: #ff9f00;
+}
+
+.contact_cont {
+    background-color: #f5f7fa;
+    padding: 15px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+
+.center-align {
+    text-align: center;
+}
+
+.footer_image {
+    height: 50px;
+}
+
+.icons_margin {
+    margin: 5px;
+}
+
+.footer_bg {
+    background-color: #0d2436;
+    color: #5a7184;
+}
